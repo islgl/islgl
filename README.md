@@ -11,9 +11,9 @@
 
 ---
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=islgl&show_icons=true&hide_border=true" width="300">
     <img src="https://streak-stats.demolab.com?user=islgl&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="300">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islgl&layout=compact&hide_border=true" width="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islgl&layout=compact&hide_border=true" width="230">
 </div>
 
