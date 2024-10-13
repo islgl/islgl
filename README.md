@@ -1,5 +1,5 @@
 ### 👋 Hi, there
-I am a data development engineer at Xiaomi Corporation, primarily engaged in backend development.
+I am a big data development engineer at Xiaomi Corporation, now primarily engaged in backend development and big data platform development.
 ![](https://cdn.jsdelivr.net/gh/islgl/img-hosting/imgs/banner.gif)
 
 <div align="center">
