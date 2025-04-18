@@ -1,5 +1,5 @@
 ### 👋 Hi, there
-I am a big data development engineer, now primarily engaged in backend development and big data platform development.
+Primarily engaged in backend development...
 ![](https://cdn.jsdelivr.net/gh/islgl/img-hosting/imgs/banner.gif)
 
 <div align="center">
