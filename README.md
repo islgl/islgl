@@ -2,7 +2,7 @@
 #### 🙋 About me
 - 2020-2022: 📖 School... Computer Science
 - 2022-2024: 📖 School... Distributed System, Big Data, Machine Learning(especially Computer Vision)
-- 2024-: 💼 Working... Back-end Development
+- 2024- : 💼 Working... Back-end Development
 
 #### 💻 Recently learning:
 - Distributed System (MIT 6.824, MLSys)
