@@ -1,12 +1,9 @@
 ### 👋 Hi, there
-- 2020-2022 📖 Learning... Computer Science
-- 2022-2024 📖 Learning... Distributed System, Big Data, Machine Learning(especially Computer Vision)
+- 2020-2022 📖 School... Computer Science
+- 2022-2024 📖 School... Distributed System, Big Data, Machine Learning(especially Computer Vision)
 - 2024 💼 Working... Back-end Development
 
-### I'm skilled in:
-- Nothing, there's a long way to go...
-
-### I'm learning:
+### Recently learning:
 - Distributed System (MIT 6.824, MLSys)
 - AI (Shift from algorithm research to LLM application)
 - Back-end, along with a bit of front-end
