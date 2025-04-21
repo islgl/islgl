@@ -7,8 +7,8 @@
 - Nothing, there's a long way to go...
 
 ### I'm learning:
-- Distributed System(MIT 6.824, MLSys)
-- AI(Shift from algorithm research to LLM application)
+- Distributed System (MIT 6.824, MLSys)
+- AI (Shift from algorithm research to LLM application)
 - Back-end, along with a bit of front-end
 
 ![](https://cdn.jsdelivr.net/gh/islgl/img-hosting/imgs/banner.gif)
