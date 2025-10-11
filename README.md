@@ -1,13 +1,14 @@
 ### 👋 Hi, there...
 #### 🙋 About me
 - 2020-2022: 📖 School... Computer Science
-- 2022-2024: 📖 School... Distributed System, Big Data, Machine Learning(especially Computer Vision)
-- 2024- : 💼 Working... Back-end Development
+- 2022-2024: 📖 School... Big Data, Distributed System, Machine Learning(especially Computer Vision)
+- 2024- : 💼 Working... Data Development Engineer specializing in Back-end Development. Actively expanding skills toward Full-Stack Development. 
 
 #### 💻 Recently learning:
-- Distributed System (MIT 6.824, MLSys)
+- Machine Learning System (MLSys)
 - AI (Shift from algorithm research to LLM application)
-- Back-end, along with a bit of front-end
+- Distributed System (MIT 6.824)
+- Full-Stack Development
 
 ![](https://cdn.jsdelivr.net/gh/islgl/img-hosting/imgs/banner.gif)
 
