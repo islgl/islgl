@@ -7,7 +7,6 @@
 #### 💻 Recently learning:
 - Machine Learning System (MLSys)
 - AI (Shift from algorithm research to LLM application)
-- Distributed System (MIT 6.824)
 - Full-Stack Development
 
 ![](https://cdn.jsdelivr.net/gh/islgl/img-hosting/imgs/banner.gif)
