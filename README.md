@@ -18,9 +18,8 @@ Big Data R&D, focusing on AI Agent, Big Data and Full-stack Development
 ---
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=islgl&show_icons=true&hide_border=true&count_private=true" width="300">
-    <img src="https://streak-stats.demolab.com?user=islgl&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="300">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islgl&layout=compact&hide_border=true&count_private=true" width="230">
-    <img src="https://github-profile-trophy.vercel.app/?username=islgl&title=Joined2020&title=Commits&title=Experience&title=Repositories&title=Stars&title=Followers&title=Issues&title=PullRequest">
+    <img src="https://gh-stats-islgl.vercel.app/api?username=islgl&show_icons=true&hide_border=true&count_private=true" width="300">
+    <img src="https://gh-streak-islgl.vercel.app?user=islgl&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="300">
+    <img src="https://gh-stats-islgl.vercel.app/api/top-langs/?username=islgl&layout=compact&hide_border=true&count_private=true" width="230">
+    <img src="https://gh-trophy-islgl.vercel.app/?username=islgl&title=Joined2020&title=Commits&title=Experience&title=Repositories&title=Stars&title=Followers&title=Issues&title=PullRequest">
 </div>
-
