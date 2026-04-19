@@ -1,13 +1,9 @@
 ### 👋 Hi, there...
 #### 🙋 About me
-- 2020-2022: 📖 School... Computer Science
-- 2022-2024: 📖 School... Big Data, Distributed System, Machine Learning(especially Computer Vision)
-- 2024- : 💼 Working... Big Data R&D Engineer, focusing on AI Agent, Big Data and Full-stack Development
+Big Data R&D, focusing on AI Agent, Big Data and Full-stack Development
 
 #### 💻 Recently learning:
 - Machine Learning System (MLSys)
-- AI (Shift from algorithm research to LLM application)
-- Full-Stack Development
 
 ![](https://cdn.jsdelivr.net/gh/islgl/img-hosting/imgs/banner.gif)
 
