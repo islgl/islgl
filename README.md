@@ -5,7 +5,7 @@ Big Data R&D, focusing on AI Agent, Big Data and Full-stack Development
 #### 💻 Recently learning:
 - Machine Learning System (MLSys)
 
-![](https://cdn.jsdelivr.net/gh/islgl/img-hosting/imgs/banner.gif)
+![](https://cdn.jsdelivr.net/gh/shufflgl/img-hosting/imgs/banner.gif)
 
 <div align="center">
     <img src="https://octodex.github.com/images/minion.png" width="150"/>
@@ -18,8 +18,8 @@ Big Data R&D, focusing on AI Agent, Big Data and Full-stack Development
 ---
 
 <div>
-    <img src="https://gh-stats-islgl.vercel.app/api?username=islgl&show_icons=true&hide_border=true&count_private=true" width="300">
-    <img src="https://gh-streak-islgl.vercel.app?user=islgl&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="300">
-    <img src="https://gh-stats-islgl.vercel.app/api/top-langs/?username=islgl&layout=compact&hide_border=true&count_private=true" width="230">
-    <img src="https://gh-trophy-islgl.vercel.app/?username=islgl&title=Joined2020&title=Commits&title=Experience&title=Repositories&title=Stars&title=Followers&title=Issues&title=PullRequest">
+    <img src="https://gh-stats.lglgl.me/api?username=shufflgl&show_icons=true&hide_border=true&count_private=true" width="300">
+    <img src="https://gh-streak.lglgl.me?user=shufflgl&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="300">
+    <img src="https://gh-stats.lglgl.me/api/top-langs/?username=shufflgl&layout=compact&hide_border=true&count_private=true" width="230">
+    <img src="https://gh-trophy.lglgl.me/?username=shufflgl&title=Joined2020&title=Commits&title=Experience&title=Repositories&title=Stars&title=Followers&title=Issues&title=PullRequest">
 </div>
